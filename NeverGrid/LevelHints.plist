@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>swipe_to_move</key>
+	<array>
+		<string>message_hello</string>
+		<string>message_swipe</string>
+		<string>message_collect</string>
+	</array>
+	<key>dont_get_caught</key>
+	<array>
+		<string>message_enemy</string>
+		<string>message_enemy_smart</string>
+	</array>
+	<key>easy_7x3_enemy_cornergoals</key>
+	<array>
+		<string>message_tap_before</string>
+		<string>message_tap</string>
+		<string>message_tap_closer</string>
+	</array>
+	<key>twostep_intro</key>
+	<array>
+		<string>message_twostep</string>
+	</array>
+	<key>fluffy_intro</key>
+	<array>
+		<string>message_clone</string>
+		<string>message_clone_2</string>
+	</array>
+	<key>robot_intro</key>
+	<array>
+		<string>message_robot_1</string>
+		<string>message_robot_2</string>
+		<string>message_robot_3</string>
+	</array>
+	<key>destroyer_intro</key>
+	<array>
+		<string>message_destroyer</string>
+	</array>
+	<key>finale</key>
+	<array>
+		<string>message_last_1</string>
+		<string>message_last_2</string>
+	</array>
+</dict>
+</plist>

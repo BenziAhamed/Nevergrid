@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="walls" tilewidth="32" tileheight="32">
+  <image source="../cells.png" trans="ff00ff" width="128" height="384"/>
+ </tileset>
+ <layer name="grid" width="6" height="6">
+  <data>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="6"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="6"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+  </data>
+ </layer>
+ <objectgroup name="portals" width="6" height="6"/>
+ <objectgroup name="players" width="6" height="6">
+  <object type="player" x="174" y="14"/>
+ </objectgroup>
+ <objectgroup name="goals" width="6" height="6">
+  <object type="goal" x="15" y="79"/>
+  <object type="goal" x="51" y="78"/>
+  <object type="goal" x="16" y="113"/>
+  <object type="goal" x="49" y="112"/>
+ </objectgroup>
+ <objectgroup name="enemies" width="6" height="6">
+  <object type="enemy" x="16" y="175"/>
+  <object type="enemy" x="15" y="14"/>
+ </objectgroup>
+ <objectgroup name="cells" width="6" height="6"/>
+</map>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="7" height="4" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="_mode" value=""/>
+  <property name="_title" value="test"/>
+  <property name="_zone" value=""/>
+  <property name="mode" value="standalone"/>
+ </properties>
+ <tileset firstgid="1" name="cells" tilewidth="32" tileheight="32">
+  <image source="../cells.png" trans="ff00ff" width="128" height="384"/>
+ </tileset>
+ <layer name="grid" width="7" height="4">
+  <data>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="16"/>
+   <tile gid="16"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+  </data>
+ </layer>
+ <layer name="walls" width="7" height="4">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="zonemap" width="7" height="4" opacity="0.09">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="34"/>
+   <tile gid="37"/>
+   <tile gid="38"/>
+   <tile gid="41"/>
+   <tile gid="42"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="43"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+   <tile gid="44"/>
+  </data>
+ </layer>
+ <objectgroup name="players">
+  <object type="player" x="15.75" y="16.25"/>
+ </objectgroup>
+ <objectgroup name="enemies">
+  <object type="enemy" x="15.25" y="111.25"/>
+ </objectgroup>
+ <objectgroup name="items">
+  <object type="zone1" x="13.75" y="16.5"/>
+  <object type="zone2" x="13" y="48.75"/>
+  <object type="zone3" x="46.25" y="49.25"/>
+  <object type="zone4" x="79.5" y="48.25"/>
+  <object type="zone5" x="111" y="48.5"/>
+  <object type="zone6" x="144.5" y="48.5"/>
+  <object type="zone7" x="144.5" y="77.25"/>
+  <object type="goal" x="15" y="80">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="powerups"/>
+ <objectgroup name="portals">
+  <object type="portal" x="205.62" y="81.382">
+   <ellipse/>
+  </object>
+  <object type="portal" x="80.476" y="81.7658">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="cells" opacity="0.11">
+  <object type="falling" x="14.75" y="17.5"/>
+  <object type="falling" x="13" y="46.5"/>
+  <object type="falling" x="46.25" y="48.25"/>
+  <object type="falling" x="81.25" y="47"/>
+  <object type="falling" x="114" y="48"/>
+  <object type="falling" x="141.5" y="47.5"/>
+  <object type="falling" x="140.5" y="76.75"/>
+  <object type="falling" x="141.75" y="110.25"/>
+  <object type="falling" x="108" y="110.5"/>
+  <object type="falling" x="77.75" y="110.5"/>
+  <object type="falling" x="42.5" y="110"/>
+  <object type="falling" x="21" y="109"/>
+  <object type="falling" x="16.5" y="81.25"/>
+  <object type="falling" x="48.5" y="82"/>
+  <object type="falling" x="78.5" y="82.25"/>
+  <object type="falling" x="113" y="82.25"/>
+  <object type="falling" x="176.829" y="82.5336"/>
+  <object type="falling" x="176.829" y="110.94"/>
+  <object type="falling" x="204.852" y="112.476"/>
+  <object type="falling" x="204.852" y="83.6852"/>
+ </objectgroup>
+</map>

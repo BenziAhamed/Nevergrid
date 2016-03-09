@@ -1,0 +1,7 @@
+../Rules/rule_block_corners.tmx
+../Rules/rule_block_corners_opposite.tmx
+../Rules/rule_block_extends.tmx
+../Rules/rule_block_inner.tmx
+../Rules/rule_cell_corners.tmx
+../Rules/rule_cell_extends.tmx
+../Rules/rule_cell_inner.tmx

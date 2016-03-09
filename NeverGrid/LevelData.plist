@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ChapterName</key>
+		<string>1. Hello</string>
+		<key>DisplayName</key>
+		<string>Chapter 1</string>
+		<key>Levels</key>
+		<array>
+			<string>swipe_to_move</string>
+			<string>collect_coins</string>
+			<string>dont_get_caught</string>
+			<string>easy_10x4_enemy_taponce_example</string>
+			<string>easy_6x6_enemy_squarewalls</string>
+			<string>easy_7x3_enemy_cornergoals</string>
+			<string>dumbell</string>
+			<string>long_draw</string>
+			<string>double_arrow</string>
+			<string>flyman</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>2. Powers</string>
+		<key>DisplayName</key>
+		<string>Chapter 2</string>
+		<key>Levels</key>
+		<array>
+			<string>tutorial_fluffy</string>
+			<string>medium_8x5_fluffyinthemiddle</string>
+			<string>twostep_intro</string>
+			<string>cornered</string>
+			<string>double_infinity</string>
+			<string>skewed_plus</string>
+			<string>throle</string>
+			<string>cornered2</string>
+			<string>cosmos</string>
+			<string>keepthestand</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>3. Deja Vu</string>
+		<key>DisplayName</key>
+		<string>Chapter 3</string>
+		<key>Levels</key>
+		<array>
+			<string>slide_intro_1</string>
+			<string>slide_intro</string>
+			<string>slide_enemy</string>
+			<string>twostep_slide</string>
+			<string>fluffy_intro</string>
+			<string>revenge</string>
+			<string>odd_level</string>
+			<string>flyflap</string>
+			<string>cornered_goals</string>
+			<string>totem</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>4. Heisenberg</string>
+		<key>DisplayName</key>
+		<string>Chapter 4</string>
+		<key>Levels</key>
+		<array>
+			<string>falling_cells_intro</string>
+			<string>falling_allcells</string>
+			<string>portals_intro</string>
+			<string>aliens</string>
+			<string>portals_three</string>
+			<string>mlu</string>
+			<string>portals_standalone</string>
+			<string>mid_falling</string>
+			<string>traze</string>
+			<string>pretzel</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>5. Labrat</string>
+		<key>DisplayName</key>
+		<string>Chapter 5</string>
+		<key>Levels</key>
+		<array>
+			<string>freeze_intro</string>
+			<string>slide_junction</string>
+			<string>slide_happy</string>
+			<string>freeze_hourglass</string>
+			<string>freeze_fracture</string>
+			<string>monster_intro</string>
+			<string>monster_middle</string>
+			<string>monster_slide</string>
+			<string>slide_dream</string>
+			<string>freeze_last</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>6. Topology</string>
+		<key>DisplayName</key>
+		<string>Chapter 6</string>
+		<key>Levels</key>
+		<array>
+			<string>zone_prelude</string>
+			<string>a portal warp</string>
+			<string>zone_intro</string>
+			<string>zone_away</string>
+			<string>zone_up</string>
+			<string>zone_fall</string>
+			<string>robot_intro</string>
+			<string>robot_intro_again</string>
+			<string>robot_party</string>
+			<string>robots_in_love</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>7. Just in Time</string>
+		<key>DisplayName</key>
+		<string>Chapter 7</string>
+		<key>Levels</key>
+		<array>
+			<string>slider_intro</string>
+			<string>slider_intro_cont</string>
+			<string>slider_portal</string>
+			<string>slider_bird</string>
+			<string>flower</string>
+			<string>destroyer_intro</string>
+			<string>destroyer_butterfly</string>
+			<string>destroyer_squarestars</string>
+			<string>destroyer_enemy</string>
+			<string>destroyer_friends</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>8. Apocalypse</string>
+		<key>DisplayName</key>
+		<string>Chapter 8</string>
+		<key>Levels</key>
+		<array>
+			<string>monstrous_slide</string>
+			<string>slide_portal_powerup</string>
+			<string>cloner_in_denial</string>
+			<string>robot_zone</string>
+			<string>port-hell</string>
+			<string>freeze_toggle</string>
+			<string>slider_protocol</string>
+			<string>the_fallen</string>
+			<string>squared_fallen</string>
+			<string>finale</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ChapterName</key>
+		<string>MoreToCome</string>
+		<key>DisplayName</key>
+		<string>THE END</string>
+		<key>Levels</key>
+		<array>
+			<string>more_to_come</string>
+		</array>
+	</dict>
+</array>
+</plist>

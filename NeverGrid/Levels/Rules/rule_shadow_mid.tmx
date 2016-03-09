@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="3" height="2" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="cells" tilewidth="32" tileheight="32">
+  <image source="../cells.png" trans="ff00ff" width="128" height="384"/>
+ </tileset>
+ <layer name="regions" width="3" height="2">
+  <data>
+   <tile gid="33"/>
+   <tile gid="33"/>
+   <tile gid="33"/>
+   <tile gid="0"/>
+   <tile gid="33"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="input_grid" width="3" height="2">
+  <data>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="0"/>
+   <tile gid="16"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="output_shadows" width="3" height="2">
+  <data>
+   <tile gid="0"/>
+   <tile gid="48"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+</map>
