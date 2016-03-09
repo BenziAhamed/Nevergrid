@@ -17,13 +17,6 @@ Back when Swift was announced I was really excited to have a go at the language 
 - It lacks comments somewhat; although I do write readable code. Always. I think. (Sigh)
 - This repo is meant to be a read-only reference. That means no Issues / Pull Requests.
  
-## LICENSE
-Copyright (c) 2014-present, Benzi Ahamed
-
-Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted. Attribution is not required. If attributed, include a link to https://github.com/BenziAhamed/Nevergrid must be provided.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
 ## CONTACT
 I am active on Twitter [@BenziAhamed](http://twitter.com/BenziAhamed). Feel free to give me a shout.
 
