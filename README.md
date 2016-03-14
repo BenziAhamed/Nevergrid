@@ -2,6 +2,8 @@
 
 ![Nevergrid Image](http://a4.mzstatic.com/us/r30/Purple49/v4/4b/66/f5/4b66f524-474f-5a73-0604-17165b5e49cb/screen640x640.jpeg)
 
+[Watch the launch trailer](https://www.youtube.com/watch?v=Lp8OPy514R4)
+
 This repository is the _code dump_ of my game Nevergrid.
 
 Back when Swift was announced I was really excited to have a go at the language and decided to pick up a simple game project to learn the basics, thus was born this project.
